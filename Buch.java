@@ -15,8 +15,8 @@ public class Buch
     {
         taschenbuch=true;
         seiten=200;
-        titel="Java für Anfänger";
-        autor="Max Schreiber";
+        titel="Java für Profis";
+        autor="Hallo Schreiber";
     }
     public Buch(boolean taschenbuch, int seiten, String titel, String autor)
     {
