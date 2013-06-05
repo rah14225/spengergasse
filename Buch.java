@@ -14,7 +14,7 @@ public class Buch
     public Buch()
     {
         taschenbuch=true;
-        seiten=200;
+        seiten=300;
         titel="Java für Profis";
         autor="Hallo Schreiber";
     }
